@@ -1,40 +1,28 @@
-# Winning the space race with Data Science
+**IBM: Predicting Falcon 9 First Stage Landing Success for Cost Efficient Rocket Launch Bidding**
 
-Table of Contents:
-1. Project Overview
-2. Data Description
-3. Technical Overview
-4. Results
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Data Description](#data-description)
+3. [Technical Overview](#technical-overview)
+4. [Results](#results)
 
-   
-# Project Overview:
+## Project Overview
+In this project, the goal is to predict the successful landing of the Falcon 9 first stage, crucial for cost-effective rocket launches. SpaceX advertises Falcon 9 launches at $62 million, significantly lower than competitors due to stage reusability. Predicting landing success aids in launch cost determination, valuable for competitive bidding.
 
-In this project, we aim to predict if the Falcon 9 first stage will land successfully. SpaceX advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch. 
+## Data Description
+Data was sourced from two primary channels: Space X API through GET requests and web scraping.
 
-
-# Data Description:
-
-The data for this project was collected from two sources: Space X API GET request and webscraping.
-
-
-# Technical Overview:
+## Technical Overview
 1. Data Collection
-2. Data wrangling
+2. Data Wrangling
 3. Exploratory Data Analysis
-4. Interactive visual analysis
-5. Predictive analysis
+4. Interactive Visual Analysis
+5. Predictive Analysis
 
-# Results:
+## Results
+All models achieved an accuracy of 0.83.
 
-The models all had same accuracy of 0.83.
-![image](https://github.com/VivianEzeagu/Winning-the-space-race-with-data-science/assets/115571925/ecfb6864-57ef-46ac-ab83-7a77f420144d)
+![Falcon 9 First Stage Landing](https://github.com/VivianEzeagu/Winning-the-space-race-with-data-science/assets/115571925/ecfb6864-57ef-46ac-ab83-7a77f420144d)
 
+Factors contributing to successful first-stage landings include higher flight numbers, booster v1.1, and launch site KSC LC-39A. The impact of orbit and payload mass varies based on other factors. Further details can be found in Report.pdf.
 
-A higher flight number,  booster v1.1 and launch site KSC LC -39A are great ingredients for the successful launch of the first stage of Falcon9. The orbit and payload mass have varied effects on the success of launch depending on some other factors. More information can found in Report.pdf.
-
-
-
-
-"# IBM-Predicting-Falcon-9-First-Stage-Landing-Success-for-Cost-Efficient-Rocket-Launch-Bidding" 
-"# IBM-Predicting-Falcon-9-First-Stage-Landing-Success-for-Cost-Efficient-Rocket-Launch-Bidding" 
-"# IBM-Predicting-Falcon-9-First-Stage-Landing-Success-for-Cost-Efficient-Rocket-Launch-Bidding" 
