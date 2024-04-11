@@ -24,5 +24,5 @@ All models achieved an accuracy of 0.83.
 
 ![Falcon 9 First Stage Landing](https://github.com/moradBoumazough/IBM-Predicting-Falcon-9-First-Stage-Landing-Success-for-Cost-Efficient-Rocket-Launch-Bidding/blob/main/273697412-ecfb6864-57ef-46ac-ab83-7a77f420144d.png)
 
-Factors contributing to successful first-stage landings include higher flight numbers, booster v1.1, and launch site KSC LC-39A. The impact of orbit and payload mass varies based on other factors. Further details can be found in Report.pdf.
+Factors contributing to successful first-stage landings include higher flight numbers, booster v1.1, and launch site KSC LC-39A. The impact of orbit and payload mass varies based on other factors. Further details can be found in Presentation.pdf.
 
